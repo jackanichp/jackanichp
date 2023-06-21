@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **AI translation** and **AI ethics** projects.
  
-- 🌱 I’m currently learning more about building and evalutating **LLMs** for translation.
+- 🌱 I’m currently learning more about building **LLMs** for translation.
 
 - 📫 How to reach me [jackanichp@gmail.com](jackanichp@gmail.com)
 
