@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Jackanich</h1>
-<h3 align="center">A former philosophy and French prof. working on machine translation.</h3>
+<h3 align="center">A former philosophy and French prof. working on data science and AI solutions.</h3>
 
 - 🔭 I’m currently building **a fine-tuned translation machine** for a telco.
 
